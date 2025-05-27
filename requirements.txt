@@ -1,0 +1,5 @@
+requests>=2.31.0
+google-cloud-texttospeech>=2.16.0
+torch>=1.13.0
+torchaudio>=0.13.0
+numpy>=1.21.0
